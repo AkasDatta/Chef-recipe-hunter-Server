@@ -4,28 +4,29 @@
             "id": 1,
             "name": "Gordon Ramsay",
             "specialty": "Contemporary American cuisine",
-            "picture": "https://example.com/gordon_ramsay.jpg",
+            "experence": "8 years",
+            "picture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
             "bio": "Gordon Ramsay is a British chef, restaurateur, writer, and television personality. He is known for his fiery temper and his innovative approach to cooking.",
             "likes": 10000,
             "recipes": [
             {
                 "id": 1,
                 "name": "Beef Wellington",
-                "picture": "https://example.com/beef_wellington.jpg",
+                "picture": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGFtZXJpY2FuJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
                 "making_details": "Season a beef fillet, wrap it in puff pastry with a layer of mushrooms and liver pate, and bake until golden brown.",
                 "rating": 4.5
             },
             {
                 "id": 2,
                 "name": "Truffle Mac and Cheese",
-                "picture": "https://example.com/truffle_mac_and_cheese.jpg",
+                "picture": "https://images.unsplash.com/photo-1555243896-771a81243361?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1123&q=80",
                 "making_details": "Cook macaroni, mix with a sauce of butter, cream, and cheddar cheese, and add chopped truffle for a luxurious touch.",
                 "rating": 4.0
             },
             {
                 "id": 3,
                 "name": "Sticky Toffee Pudding",
-                "picture": "https://example.com/sticky_toffee_pudding.jpg",
+                "picture": "https://images.unsplash.com/photo-1602030638412-bb8dcc0bc8b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
                 "making_details": "Make a sponge cake with dates and drizzle with a toffee sauce made with butter, cream, and sugar.",
                 "rating": 4.7
             }
@@ -35,28 +36,29 @@
             "id": 2,
             "name": "Ina Garten",
             "specialty": "Traditional American cuisine",
-            "picture": "https://example.com/ina_garten.jpg",
+            "picture": "https://images.unsplash.com/photo-1496811425508-6d7ebb7ff32c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=845&q=80",
+            "experence": "5 years",
             "bio": "Ina Garten is an American chef, author, and television personality. She is known for her simple, elegant recipes that emphasize fresh, seasonal ingredients.",
             "likes": 8000,
             "recipes": [
             {
                 "id": 1,
                 "name": "Roast Chicken",
-                "picture": "https://example.com/roast_chicken.jpg",
+                "picture": "https://images.unsplash.com/photo-1604908554025-e477d54e85e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
                 "making_details": "Season a chicken with salt, pepper, and thyme, stuff with lemon and garlic, and roast until golden brown and juicy.",
                 "rating": 4.8
             },
             {
                 "id": 2,
                 "name": "Parker's Beef Stew",
-                "picture": "https://example.com/parkers_beef_stew.jpg",
+                "picture": "https://images.unsplash.com/photo-1535567465397-7523840f2ae9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=829&q=80",
                 "making_details": "Brown beef chuck, carrots, onions, and garlic, then simmer with red wine, beef broth, and herbs until tender.",
                 "rating": 4.5
             },
             {
                 "id": 3,
                 "name": "Chocolate Cake",
-                "picture": "https://example.com/chocolate_cake.jpg",
+                "picture": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
                 "making_details": "Mix together flour, sugar, cocoa powder, and baking soda, then add eggs, buttermilk, oil, and vanilla and bake until moist and tender.",
                 "rating": 4.6
             }
@@ -67,28 +69,29 @@
                 "id": 3,
                 "name": "Jamie Oliver",
                 "specialty": "British cuisine",
-                "picture": "https://example.com/jamie_oliver.jpg",
+                "picture": "https://media.istockphoto.com/id/1305817541/photo/a-young-handsome-baker-shows-his-thumb-up-with-a-sheet-of-fresh-croissants-in-his-hands.jpg?s=2048x2048&w=is&k=20&c=pm8iFiIXrOo3RnpircebAFECpVF8j1-llhfbY4ZJQx8=",
+                "experence": "4 years",
                 "bio": "Jamie Oliver is a British chef, restaurateur, and television personality. He is known for his focus on healthy, sustainable ingredients and simple, rustic cooking.",
                 "likes": 12000,
                 "recipes": [
                     {
                         "id": 1,
                         "name": "Roast Beef",
-                        "picture": "https://example.com/roast_beef.jpg",
+                        "picture": "https://images.unsplash.com/photo-1556269923-e4ef51d69638?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=778&q=80",
                         "making_details": "Season a beef rib roast with salt, pepper, and rosemary, then roast in the oven until medium-rare.",
                         "rating": 4.4
                     },
                     {
                         "id": 2,
                         "name": "Fish and Chips",
-                        "picture": "https://example.com/fish_and_chips.jpg",
+                        "picture": "https://images.unsplash.com/photo-1555243896-771a81243361?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=823&q=80",
                         "making_details": "Dredge cod fillets in flour, then dip in a batter of beer, flour, and baking powder and fry until golden brown. Serve with fries and tartar sauce.",
                         "rating": 4.2
                     },
                     {
                         "id": 3,
                         "name": "Bread and Butter Pudding",
-                        "picture": "https://example.com/bread_and_butter_pudding.jpg",
+                        "picture": "https://images.unsplash.com/photo-1607730127050-e32a8c756fb9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
                         "making_details": "Butter slices of bread, layer with raisins, and pour over a mixture of eggs, cream, sugar, and vanilla. Bake until golden brown and set.",
                         "rating": 4.7
                     }
@@ -98,32 +101,97 @@
                 "id": 4,
                 "name": "Nigella Lawson",
                 "specialty": "Comfort food",
-                "picture": "https://example.com/nigella_lawson.jpg",
+                "picture": "https://images.unsplash.com/photo-1518609819766-6c7ed22fa768?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1112&q=80",
+                "experence": "6 years",
                 "bio": "Nigella Lawson is a British food writer and television personality. She is known for her indulgent, flavorful recipes that are easy to make and perfect for entertaining.",
                 "likes": 9000,
                 "recipes": [
                     {
                         "id": 1,
                         "name": "Lemon Drizzle Cake",
-                        "picture": "https://example.com/lemon_drizzle_cake.jpg",
+                        "picture": "https://images.unsplash.com/photo-1598511796432-32663d0875bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
                         "making_details": "Mix together flour, sugar, butter, eggs, and lemon zest and juice, then bake until golden brown. Drizzle with a mixture of sugar and lemon juice.",
                         "rating": 4.8
                     },
                     {
                         "id": 2,
                         "name": "Pasta with Marmite",
-                        "picture": "https://example.com/pasta_with_marmite.jpg",
+                        "picture": "https://images.unsplash.com/photo-1599345621547-37d2e2ff5aea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
                         "making_details": "Cook pasta and toss with a sauce of butter, marmite, and parmesan cheese. Serve with a sprinkle of parsley.",
                         "rating": 4.1
                     },
                     {
                         "id": 3,
                         "name": "Slow-Cooked Beef Ragu",
-                        "picture": "https://example.com/slow_cooked_beef_ragu.jpg",
+                        "picture": "https://images.unsplash.com/photo-1560717845-968823efbee1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
                         "making_details": "Brown beef chuck, onions, and garlic, then simmer with tomatoes, red wine, and herbs until tender. Serve over pasta with parmesan cheese.",
                         "rating": 4.5
                     }
                 ]
+        }, 
+        {
+            "id": 5,
+            "name": "Kanayan Ottolenghi",
+            "specialty": "Middle Eastern and Mediterranean cuisine",
+            "picture": "https://images.unsplash.com/photo-1604551969716-5d6d8f77b241?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "experence": "10 years",
+            "bio": "Yotam Ottolenghi is an Israeli-British chef, author, and restaurant owner known for his innovative recipes that combine Middle Eastern and Mediterranean flavors.",
+            "likes": 9000,
+            "recipes": [
+                {
+                "id": 1,
+                "name": "Roasted Cauliflower",
+                "picture": "https://images.unsplash.com/photo-1498588747262-0f2241707d13?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "making_details": "Toss cauliflower florets with olive oil, salt, and spices, then roast until tender and golden brown.",
+                "rating": 4.9
+                },
+                {
+                "id": 2,
+                "name": "Chicken Shawarma",
+                "picture": "https://images.unsplash.com/photo-1457666134378-6b77915bd5f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1034&q=80",
+                "making_details": "Marinate chicken thighs in a mixture of yogurt and spices, then grill or bake until tender and flavorful.",
+                "rating": 4.7
+                },
+                {
+                "id": 3,
+                "name": "Mediterranean Salad",
+                "picture": "https://images.unsplash.com/reserve/oMRKkMc4RSq7N91OZl0O_IMG_8309.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+                "making_details": "Combine fresh vegetables, herbs, olives, and feta cheese in a bowl, then dress with lemon juice and olive oil.",
+                "rating": 4.5
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Yotam Ottolenghi",
+            "specialty": "Middle Eastern cuisine",
+            "picture": "https://images.unsplash.com/photo-1667899827540-e06edbb2272d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "experence": "12 years",
+            "bio": "Yotam Ottolenghi is an Israeli-English chef, restaurateur, and food writer. He is known for his fusion of Middle Eastern, Mediterranean, and Asian flavors.",
+            "likes": 12000,
+            "recipes": [
+                {
+                "id": 1,
+                "name": "Roasted Eggplant with Tahini",
+                "picture": "https://images.unsplash.com/photo-1506354666786-959d6d497f1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "making_details": "Roast eggplant until tender, then mix tahini sauce with garlic, lemon juice, and water and drizzle over the eggplant.",
+                "rating": 4.7
+                },
+                {
+                "id": 2,
+                "name": "Lamb and Pistachio Patties",
+                "picture": "https://images.unsplash.com/photo-1487790343276-2fe56a7d9439?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=867&q=80",
+                "making_details": "Mix ground lamb with pistachios, onion, parsley, and spices, then form into patties and grill until cooked through.",
+                "rating": 4.8
+                },
+                {
+                "id": 3,
+                "name": "Miso-Marinated Salmon",
+                "picture": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+                "making_details": "Mix ground lamb with pistachios, onion, parsley, and spices, then form into patties and grill until cooked through.",
+                "rating": 4.8
+                }
+            ]
         }
     ]
     
