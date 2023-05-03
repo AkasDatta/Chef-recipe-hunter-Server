@@ -1,0 +1,129 @@
+
+    [
+        {
+            "id": 1,
+            "name": "Gordon Ramsay",
+            "specialty": "Contemporary American cuisine",
+            "picture": "https://example.com/gordon_ramsay.jpg",
+            "bio": "Gordon Ramsay is a British chef, restaurateur, writer, and television personality. He is known for his fiery temper and his innovative approach to cooking.",
+            "likes": 10000,
+            "recipes": [
+            {
+                "id": 1,
+                "name": "Beef Wellington",
+                "picture": "https://example.com/beef_wellington.jpg",
+                "making_details": "Season a beef fillet, wrap it in puff pastry with a layer of mushrooms and liver pate, and bake until golden brown.",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "name": "Truffle Mac and Cheese",
+                "picture": "https://example.com/truffle_mac_and_cheese.jpg",
+                "making_details": "Cook macaroni, mix with a sauce of butter, cream, and cheddar cheese, and add chopped truffle for a luxurious touch.",
+                "rating": 4.0
+            },
+            {
+                "id": 3,
+                "name": "Sticky Toffee Pudding",
+                "picture": "https://example.com/sticky_toffee_pudding.jpg",
+                "making_details": "Make a sponge cake with dates and drizzle with a toffee sauce made with butter, cream, and sugar.",
+                "rating": 4.7
+            }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Ina Garten",
+            "specialty": "Traditional American cuisine",
+            "picture": "https://example.com/ina_garten.jpg",
+            "bio": "Ina Garten is an American chef, author, and television personality. She is known for her simple, elegant recipes that emphasize fresh, seasonal ingredients.",
+            "likes": 8000,
+            "recipes": [
+            {
+                "id": 1,
+                "name": "Roast Chicken",
+                "picture": "https://example.com/roast_chicken.jpg",
+                "making_details": "Season a chicken with salt, pepper, and thyme, stuff with lemon and garlic, and roast until golden brown and juicy.",
+                "rating": 4.8
+            },
+            {
+                "id": 2,
+                "name": "Parker's Beef Stew",
+                "picture": "https://example.com/parkers_beef_stew.jpg",
+                "making_details": "Brown beef chuck, carrots, onions, and garlic, then simmer with red wine, beef broth, and herbs until tender.",
+                "rating": 4.5
+            },
+            {
+                "id": 3,
+                "name": "Chocolate Cake",
+                "picture": "https://example.com/chocolate_cake.jpg",
+                "making_details": "Mix together flour, sugar, cocoa powder, and baking soda, then add eggs, buttermilk, oil, and vanilla and bake until moist and tender.",
+                "rating": 4.6
+            }
+            ]
+        },
+       
+        {
+                "id": 3,
+                "name": "Jamie Oliver",
+                "specialty": "British cuisine",
+                "picture": "https://example.com/jamie_oliver.jpg",
+                "bio": "Jamie Oliver is a British chef, restaurateur, and television personality. He is known for his focus on healthy, sustainable ingredients and simple, rustic cooking.",
+                "likes": 12000,
+                "recipes": [
+                    {
+                        "id": 1,
+                        "name": "Roast Beef",
+                        "picture": "https://example.com/roast_beef.jpg",
+                        "making_details": "Season a beef rib roast with salt, pepper, and rosemary, then roast in the oven until medium-rare.",
+                        "rating": 4.4
+                    },
+                    {
+                        "id": 2,
+                        "name": "Fish and Chips",
+                        "picture": "https://example.com/fish_and_chips.jpg",
+                        "making_details": "Dredge cod fillets in flour, then dip in a batter of beer, flour, and baking powder and fry until golden brown. Serve with fries and tartar sauce.",
+                        "rating": 4.2
+                    },
+                    {
+                        "id": 3,
+                        "name": "Bread and Butter Pudding",
+                        "picture": "https://example.com/bread_and_butter_pudding.jpg",
+                        "making_details": "Butter slices of bread, layer with raisins, and pour over a mixture of eggs, cream, sugar, and vanilla. Bake until golden brown and set.",
+                        "rating": 4.7
+                    }
+                ]
+        },
+        {
+                "id": 4,
+                "name": "Nigella Lawson",
+                "specialty": "Comfort food",
+                "picture": "https://example.com/nigella_lawson.jpg",
+                "bio": "Nigella Lawson is a British food writer and television personality. She is known for her indulgent, flavorful recipes that are easy to make and perfect for entertaining.",
+                "likes": 9000,
+                "recipes": [
+                    {
+                        "id": 1,
+                        "name": "Lemon Drizzle Cake",
+                        "picture": "https://example.com/lemon_drizzle_cake.jpg",
+                        "making_details": "Mix together flour, sugar, butter, eggs, and lemon zest and juice, then bake until golden brown. Drizzle with a mixture of sugar and lemon juice.",
+                        "rating": 4.8
+                    },
+                    {
+                        "id": 2,
+                        "name": "Pasta with Marmite",
+                        "picture": "https://example.com/pasta_with_marmite.jpg",
+                        "making_details": "Cook pasta and toss with a sauce of butter, marmite, and parmesan cheese. Serve with a sprinkle of parsley.",
+                        "rating": 4.1
+                    },
+                    {
+                        "id": 3,
+                        "name": "Slow-Cooked Beef Ragu",
+                        "picture": "https://example.com/slow_cooked_beef_ragu.jpg",
+                        "making_details": "Brown beef chuck, onions, and garlic, then simmer with tomatoes, red wine, and herbs until tender. Serve over pasta with parmesan cheese.",
+                        "rating": 4.5
+                    }
+                ]
+        }
+    ]
+    
